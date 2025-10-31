@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Studio**
 
-- 📫 How to reach me **kgabrez8@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
