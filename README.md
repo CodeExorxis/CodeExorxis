@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/kvngbrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kvngbrz" height="30" width="40" /></a>
-<a href="https://instagram.com/kaeltokumei666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaeltokumei666" height="30" width="40" /></a>
+<a href="https://fb.com/kvngbrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kvgbrz" height="30" width="40" /></a>
+<a href="https://instagram.com/kaeltokumei666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaeltokume666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
